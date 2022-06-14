@@ -1,3 +1,5 @@
+#This .py file was created by the Instructor
+#Class notes 06.14.22
 class BankAccount:
     #magic method /called automatically
     def __init__(self,balance):
