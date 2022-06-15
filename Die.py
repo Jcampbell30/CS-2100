@@ -30,7 +30,7 @@ def main():
         count +=1
     
     probability = (doubleSix/count)
-    print("The probability of rolling double sixes is: ", "% " + str(probability))
+    print("The probability of rolling double sixes is: "+ str(probability), "% ")
 
 
 main()
